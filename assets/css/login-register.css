@@ -222,10 +222,10 @@
 }
 .big-register{
     background-color: rgba(0,0,0,.0);
-    color: #00bbff;
-    border-color: #00bbff;
+    color: #006d98;
+    border-color: #006d98;
 }
 .big-register:hover{
-    border-color: #00A4E4;
-    color:  #00A4E4;
+    border-color: #00a4e4;
+    color:  #00a4e4;
 }
